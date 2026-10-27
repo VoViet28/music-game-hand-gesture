@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "music-game-hand-gesture"
+version = "2.0.0"
+description = "Interactive MediaPipe hand-gesture music game"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+  "mediapipe==0.10.21",
+  "opencv-contrib-python==4.11.0.86",
+  "numpy>=1.26.0,<2.0",
+  "pygame==2.6.1",
+  "Pillow>=10.0,<13.0",
+  "jax==0.4.30",
+  "jaxlib==0.4.30",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

@@ -1,0 +1,10 @@
+# Python 3.10-3.12 recommended
+mediapipe==0.10.21
+opencv-contrib-python==4.11.0.86
+numpy>=1.26.0,<2.0
+pygame==2.6.1
+Pillow>=10.0,<13.0
+# MediaPipe declares these without an upper bound. Pinning avoids pip trying
+# every future JAX release and keeps compatibility with NumPy 1.x.
+jax==0.4.30
+jaxlib==0.4.30
