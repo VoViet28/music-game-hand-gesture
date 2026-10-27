@@ -1,5 +1,7 @@
 # Báo cáo kỹ thuật - Music Game
 
+**Mã nguồn GitHub:** [VoViet28/music-game-hand-gesture](https://github.com/VoViet28/music-game-hand-gesture)
+
 ## 1. Ý tưởng và mục tiêu
 
 Music Game biến bàn tay thành một nhạc cụ không chạm. Người dùng giữ form tay
