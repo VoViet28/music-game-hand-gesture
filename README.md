@@ -143,8 +143,8 @@ Thuật toán phân loại và các chế độ chơi trong project này đượ
 
 ## Báo cáo đồ án
 
-- [Báo cáo PDF (5 trang A4)](docs/Bao_cao_Music_Game.pdf): có bìa để trống
-  thông tin sinh viên, lớp và giảng viên để tự điền sau.
+- [Báo cáo PDF](docs/Bao_cao_Music_Game.pdf): nội dung kỹ thuật, không có
+  trang bìa hoặc thông tin sinh viên, lớp, giảng viên.
 - [Báo cáo kỹ thuật dạng Markdown](REPORT.md).
 - [Kết quả và giới hạn kiểm thử](VERIFICATION.md).
 
